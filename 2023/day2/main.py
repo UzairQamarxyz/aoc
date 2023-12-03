@@ -44,5 +44,5 @@ with open(input_file, "r") as file:
             pass
 
         print()
-    print(total_sum)
-    print(total_power)
+    print(f"Part1: {total_sum}")
+    print(f"Part2: {total_power}")
